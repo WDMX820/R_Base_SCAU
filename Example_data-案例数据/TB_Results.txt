@@ -1,0 +1,23 @@
+
+
+
+
+
+
+your R coding is excellent!
+Test.Date	Nurse .ID	Number Patient	TB.Status	Test.Result
+2015-06-13	13512	Patient 2	NA	Negative
+2015-05-10	13512	Patient 3	0	Negative
+2015-05-01	13512	Patient 2	1	NA
+2015-09-04	58406	Patient 3	0	Negative
+2015-08-23	85960	Patient 2	1	NA
+2015-01-28	85960	Patient 3	1	Negative
+2015-02-12	58406	Patient 2	NA	Negative
+2015-06-03	85960	Patient 2	0	Positive
+2015-02-15	13512	Patient 2	0	Negative
+2015-06-20	15839	Patient 3	1	Negative
+2015-04-29	85960	Patient 3	0	Positive
+2015-04-10	58406	Patient 2	NA	Positive
+2015-02-04	75697	Patient 1	0	Positive
+2015-05-14	15839	Patient 2	1	Negative
+2015-03-01	85960	Patient 2	0	Positive
